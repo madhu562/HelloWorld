@@ -9,8 +9,6 @@ include("partials/head.php");
 	
    <?php
     include("partials/header.php");
-
-
    ?>
 
 	
