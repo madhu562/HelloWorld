@@ -3,7 +3,7 @@
 $host =  "localhost";
 $user =  "root";
 $password = "";
-$dbname = "onlinestore";
+$dbname = "onlinestoret";
 
 $connect = mysqli_connect($host , $user , $password ,$dbname);
 

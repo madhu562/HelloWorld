@@ -26,7 +26,7 @@ include("partials/head.php");
 		<div class="container">
 			<div class="flex-w flex-tr">
 				<div class="size-210 bor10 p-lr-70 p-t-55 p-b-70 p-lr-15-lg w-full-md">
-					<form>
+					<form action="handler/contact.php"  method = "POST">
 						<h4 class="mtext-105 cl2 txt-center p-b-30">
 							Send Us A Message
 						</h4>
@@ -58,7 +58,7 @@ include("partials/head.php");
 							</span>
 
 							<p class="stext-115 cl6 size-213 p-t-18">
-								Coza Store Center 8th floor, 379 Hudson St, New York, NY 10018 US
+							8th floor, 379 Hudson St, Montreal, QC
 							</p>
 						</div>
 					</div>

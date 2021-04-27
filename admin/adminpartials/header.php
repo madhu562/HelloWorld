@@ -35,7 +35,7 @@
                         Support Team
                         <small><i class="fa fa-clock-o"></i> 5 mins</small>
                       </h4>
-                      <p>Why not buy a new awesome theme?</p>
+                     
                     </a>
                   </li>
                   <!-- end message -->
@@ -48,7 +48,7 @@
                         AdminLTE Design Team
                         <small><i class="fa fa-clock-o"></i> 2 hours</small>
                       </h4>
-                      <p>Why not buy a new awesome theme?</p>
+                     <p></p>
                     </a>
                   </li>
                   <li>
@@ -60,7 +60,7 @@
                         Developers
                         <small><i class="fa fa-clock-o"></i> Today</small>
                       </h4>
-                      <p>Why not buy a new awesome theme?</p>
+                     <p></p>
                     </a>
                   </li>
                   <li>
@@ -72,7 +72,7 @@
                         Sales Department
                         <small><i class="fa fa-clock-o"></i> Yesterday</small>
                       </h4>
-                      <p>Why not buy a new awesome theme?</p>
+                     <p></p>
                     </a>
                   </li>
                   <li>
@@ -84,7 +84,7 @@
                         Reviewers
                         <small><i class="fa fa-clock-o"></i> 2 days</small>
                       </h4>
-                      <p>Why not buy a new awesome theme?</p>
+                     <p></p>
                     </a>
                   </li>
                 </ul>
